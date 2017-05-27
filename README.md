@@ -1,0 +1,2 @@
+# myFirstRepoTrevorAdams
+Student Projects
